@@ -9,8 +9,8 @@ I can create simple Annotation tools for Deep Learning.<br>
 Something of Deep Learning for Image<br>
 ROS<br>
 Python<br>
-C++<br>
-PySide2(Qt)<br>
+C++(basic)<br>
+PySide2(basic)<br>
 
 ### 🌱 Recent research<br>
 Deep Learning of Point Cloud<br>
