@@ -1,7 +1,7 @@
 ### Hi there, My name is Chotaro Yamamoto 👋
 
 ### 👨 My Profile<br>
-I belong to Master Postgraduate of Shibaura Institute of technology.<br>
+I am a Master Postgraduate student of Shibaura Institute of technology.<br>
 My research is Deep Learning of Image or Point Cloud with pytorch for ROS.<br>
 I can create simple Annotation tools for Deep Learning.<br>
 <br>
